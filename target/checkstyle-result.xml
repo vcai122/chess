@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/Users/vincentcai/Downloads/hw09_local_temp/src/main/java/org/cis120/chess/game/GameBoard.java">
+</file>
+<file name="/Users/vincentcai/Downloads/hw09_local_temp/src/main/java/org/cis120/chess/AI/ChessAI.java">
+</file>
+<file name="/Users/vincentcai/Downloads/hw09_local_temp/src/main/java/org/cis120/chess/chessLogic/Piece.java">
+</file>
+</checkstyle>
